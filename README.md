@@ -7,3 +7,5 @@ W: Move forward
 A: Rotate left  
 D: Rotate right  
 Space: Fire
+  
+![alt text](https://github.com/3sphere/Asteroids/blob/master/screenshot.png "screenshot")
