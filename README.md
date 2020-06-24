@@ -8,12 +8,11 @@ With this project, I wanted to begin to learn how code for games more complex th
 
 ![Screenshot](https://github.com/3sphere/Asteroids/blob/master/screenshot.png)  
 
-Video demo: https://www.youtube.com/watch?v=iX6WroFH7rA&feature=youtu.be  
+Video: https://www.youtube.com/watch?v=iX6WroFH7rA&feature=youtu.be  
 
 ### Libraries used
 **SDL 2.0** for windowing and rendering of simple graphics  
 **SDL_mixer 2.0** for sounds  
-**SDL_ttf 2.0** for displaying text  
 
 ### Controls  
 W: Move forward  
